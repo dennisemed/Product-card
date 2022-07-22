@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/dennisemed/Product-Card)
-- Live Site URL: [Github Pages](dennisemed.github.io/Product-Card)
+- Live Site URL: [Github Pages](https://dennisemed.github.io/Product-Card)
 
 ## My process
 
